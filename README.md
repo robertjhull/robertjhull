@@ -1,8 +1,6 @@
 ### Hello
 
-I'm Robert and I'm a software developer from Stockton, CA. I primarily work with React, NextJS, and Flask, and I'm competent in JavaScript and Python. I’m currently looking for work as a full-stack web developer anywhere in the Bay Area.
-
-[Portfolio](#) (coming soon)
+I'm Robert and I'm a software developer from Stockton, CA. I'm competent in JavaScript and Python and know how to work with React, Next.JS and Flask. I’m currently looking for work as a full-stack web developer anywhere in the Bay Area.
 
 You can contact me on:
 
