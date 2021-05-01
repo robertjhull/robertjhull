@@ -2,6 +2,8 @@
 
 I'm Robert and I'm a self-taught software developer from Stockton, CA. I'm competent in JavaScript and Python and know how to work with React, Next.JS and Flask. I’m currently looking for work as a full-stack web developer anywhere in the Bay Area or Central Valley.
 
+[Portfolio](https://robertjhull.github.io/)
+
 You can contact me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-hull-0466b288/)
