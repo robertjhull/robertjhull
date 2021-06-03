@@ -1,4 +1,4 @@
-Self-taught software developer from Stockton, CA, hoping to break into the industry. Competent in JavaScript and Python and know how to work with React, Next.JS and Flask. Currently looking for work as a junior developer anywhere in the Bay Area or Central Valley.
+Self-taught software developer from Stockton, CA, hoping to break into the industry. Formerly a musician and music director for 5+ years. Competent in JavaScript and Python and know how to work with React, Flask, and .NET Core. Currently looking for work as a junior developer anywhere in the Bay Area or Central Valley.
 
 [Portfolio](https://robertjhull.github.io/)
 
