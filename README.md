@@ -1,4 +1,4 @@
-Full-stack web developer currently looking for a junior developer position around Sacramento or the Bay Area.
+Full-stack web developer currently looking for a junior developer position around Sacramento or the Bay Area (also open to remote work).
 
 **Languages**: JavaScript/TypeScript, Python, C#, C++
 
