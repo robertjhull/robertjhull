@@ -2,7 +2,7 @@ Full-stack web developer currently looking for a junior developer position aroun
 
 **Languages**: JavaScript/TypeScript, Python, C#, C++
 
-**Technologies/Frameworks**: React, React-Redux, Node, Express, MongoDB, Flask, .NET Core, SQL & noSQL databases (such as PostgreSQL and MongoDB)
+**Technologies/Frameworks**: React, React-Redux, React Native, Node, Express, MongoDB, Flask, .NET Core, SQL & noSQL databases (such as PostgreSQL and MongoDB)
 
 [My Portfolio](https://robertjhull.github.io/)
 
