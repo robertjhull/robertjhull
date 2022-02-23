@@ -1,4 +1,4 @@
-Full-stack web developer working for [Frenalytics](https://www.frenalytics.com/)
+Full-stack software developer working for [Frenalytics](https://www.frenalytics.com/)
 
 **Languages**: JavaScript/TypeScript, Dart, Python, C#, C++
 
