@@ -1,8 +1,8 @@
 Full-stack software developer working for [Frenalytics](https://www.frenalytics.com/)
 
-**Languages**: JavaScript/TypeScript, Dart, Python, C#, C++
+**Languages**: JavaScript/TypeScript, Python, C#, C++
 
-**Technologies/Frameworks**: Flutter, React, React-Redux, React Native, Node, Express, MongoDB, Flask, .NET Core, SQL & noSQL databases (such as PostgreSQL and MongoDB)
+**Technologies/Frameworks**: Vue, React, React-Redux, React Native, Node, Express, MongoDB, Flask, .NET Core, SQL & noSQL databases (such as PostgreSQL and MongoDB)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-hull-0466b288/)
 
