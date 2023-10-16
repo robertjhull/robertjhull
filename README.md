@@ -1,4 +1,4 @@
-Full-stack software developer working for [Frenalytics](https://www.frenalytics.com/)
+Full-stack software developer working for Think Group Holdings, Inc on [Frenalytics](https://www.frenalytics.com/)
 
 **Languages**: C#, JavaScript/TypeScript, Python, C++
 
